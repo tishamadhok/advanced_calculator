@@ -1,0 +1,2 @@
+[MASTER]
+disable=unnecessary-dunder-call, invalid-name
